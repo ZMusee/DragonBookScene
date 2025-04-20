@@ -16,7 +16,6 @@ Using Unity and Vuforia, it detects a specific image (like a storybook page) and
 
 - Unity (2021.x)
 - Vuforia Engine (AR tracking)
-- C#
 
 ---
 
