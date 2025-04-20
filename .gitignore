@@ -22,3 +22,4 @@ MemoryCaptures/
 *.VC.db
 .vscode/
 .DS_Store
+*.tgz
